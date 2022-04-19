@@ -1,2 +1,1 @@
-# UTSKecerdasanBuatan
-UTS KECERDASAN BUATAN
+# UTS_Kecerdasan-Buatan
